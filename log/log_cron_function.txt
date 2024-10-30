@@ -1,0 +1,2 @@
+Comenzamos ejecucion Cron -> 14-10-2021 08:00:44
+	 LA EJECUCIÓN DEL CRON HA ACABADO
